@@ -45,6 +45,8 @@ const StyledEdDiv = styled.div`
     &:hover {
     background-color:white;
     };
+
+    
 `;
 
 
